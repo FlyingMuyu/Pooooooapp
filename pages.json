@@ -1,0 +1,152 @@
+{
+	"pages": [
+		{
+		"path": "pages/login/login",
+		"style": {
+			"navigationBarTitleText": "登录",
+			"navigationBarHidden": true
+		}
+	},
+	{
+		"path": "pages/register/register",
+		"style": {
+			"navigationBarTitleText": "注册",
+			"navigationBarHidden": true
+		}
+	},
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "首页",
+				"navigationBarHidden": true
+			}
+		},
+		{
+			"path": "pages/record/record",
+			"style": {
+				"navigationBarTitleText": "记录",
+				"navigationBarHidden": true
+			}
+		},
+		{
+			"path": "pages/addRecord/addRecord",
+			"style": {
+				"navigationBarTitleText": "记录拉屎",
+				"navigationBarHidden": true
+			}
+		},
+		{
+			"path": "pages/friends/friends",
+			"style": {
+				"navigationBarTitleText": "好友",
+				"navigationBarHidden": true
+			}
+		},
+		{
+			"path": "pages/profile/profile",
+			"style": {
+				"navigationBarTitleText": "我的",
+				"navigationBarHidden": true
+			}
+		},
+		{
+			"path": "pages/history/history",
+			"style": {
+				"navigationBarTitleText": "历史记录",
+				"navigationBarHidden": true
+			}
+		},
+		{
+			"path": "pages/dataAnalysis/dataAnalysis",
+			"style": {
+				"navigationBarTitleText": "数据分析",
+				"navigationBarHidden": true
+			}
+		},
+		{
+			"path": "pages/badges/badges",
+			"style": {
+				"navigationBarTitleText": "成就徽章",
+				"navigationBarHidden": true
+			}
+		},
+		{
+			"path": "pages/settings/settings",
+			"style": {
+				"navigationBarTitleText": "设置",
+				"navigationBarHidden": true
+			}
+		},
+		{
+			"path": "pages/competition/competition",
+			"style": {
+				"navigationBarTitleText": "拉屎比拼",
+				"navigationBarHidden": true
+			}
+		},
+		{
+			"path": "pages/about/about",
+			"style": {
+				"navigationBarTitleText": "关于我们",
+				"navigationBarHidden": true
+			}
+		},
+		{
+			"path": "pages/webview/webview",
+			"style": {
+				"navigationBarTitleText": "网页浏览",
+				"navigationBarHidden": true
+			}
+		},
+		{
+			"path": "pages/userProfile/userProfile",
+			"style": {
+				"navigationBarTitleText": "用户中心",
+				"navigationBarHidden": true
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#999999",
+		"selectedColor": "#A67D4F",
+		"backgroundColor": "#FFFFFF",
+		"list": [
+			{
+				"pagePath": "pages/index/index",
+				"text": "首页",
+				"iconPath": "static/home.svg",
+				"selectedIconPath": "static/home_selected.svg"
+			},
+			{
+				"pagePath": "pages/record/record",
+				"text": "记录",
+				"iconPath": "static/record.svg",
+				"selectedIconPath": "static/record_selected.svg"
+			},
+			{
+				"pagePath": "pages/addRecord/addRecord",
+				"text": "新增",
+				"iconPath": "static/add.svg",
+				"selectedIconPath": "static/add_selected.svg"
+			},
+			{
+				"pagePath": "pages/friends/friends",
+				"text": "好友",
+				"iconPath": "static/friends.svg",
+				"selectedIconPath": "static/friends_selected.svg"
+			},
+			{
+				"pagePath": "pages/profile/profile",
+				"text": "我的",
+				"iconPath": "static/profile.svg",
+				"selectedIconPath": "static/profile_selected.svg"
+			}
+		]
+	},
+	"uniIdRouter": {}
+}

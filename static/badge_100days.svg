@@ -1,0 +1,5 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="40" cy="40" r="35" fill="#A67D4F"/>
+  <text x="40" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">100</text>
+  <text x="40" y="55" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="white">DAYS</text>
+</svg>
